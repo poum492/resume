@@ -1,0 +1,8 @@
+{
+  "name": "Resume",
+  "description": "An AI-powered Computer Science resume builder and optimizer tailored for student internships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
